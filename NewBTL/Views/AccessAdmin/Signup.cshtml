@@ -1,0 +1,121 @@
+﻿@{
+	Layout = null;
+}
+@model Nguoidung
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Login V1</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<!--===============================================================================================-->
+	<link rel="icon" type="image/png" href="~Login/images/icons/favicon.ico" />
+	<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="~Login/vendor/bootstrap/css/bootstrap.min.css">
+	<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="fonts/font-awesome-4.7.0/css/font-awesome.min.css">
+	<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="~Login/vendor/animate/animate.css">
+	<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="~Login/vendor/css-hamburgers/hamburgers.min.css">
+	<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="~Login/vendor/select2/select2.min.css">
+	<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="~/Login/css/util.css">
+	<link rel="stylesheet" type="text/css" href="~/Login/css/main.css">
+	<!--===============================================================================================-->
+</head>
+<body>
+
+	<div class="limiter">
+		<div class="container-login100">
+			<div class="wrap-login100">
+				<div class="login100-pic js-tilt" data-tilt>
+					<img src="~/Login/images/img-01.png" alt="IMG">
+				</div>
+
+				@* <form class="login100-form validate-form"> *@
+				@using (Html.BeginForm("Signup", "AccessAdmin", FormMethod.Post))
+				{
+					<span class="login100-form-title">
+						Member Sign up
+					</span>
+					<div class="wrap-input100 validate-input" data-validate="FullName is required">
+						@Html.TextBoxFor(x=>x.Hoten, new{@class="input100",placeholder="Họ tên"})
+						@* 						<input class="input100" type="text" name="email" placeholder="Email"> *@
+						<span class="focus-input100"></span>
+						<span class="symbol-input100">
+							<i class="fa fa-envelope" aria-hidden="true"></i>
+						</span>
+						<span class="field-validation-valid text-danger">
+							@Html.ValidationMessageFor(x => x.Hoten)
+						</span>
+					</div>
+					<div class="wrap-input100 validate-input" data-validate="Valid email is required: ex@abc.xyz">
+						@Html.TextBoxFor(x=>x.Email, new{@class="input100",placeholder="Email"})
+						@* 						<input class="input100" type="text" name="email" placeholder="Email"> *@
+						<span class="focus-input100"></span>
+						<span class="symbol-input100">
+							<i class="fa fa-envelope" aria-hidden="true"></i>
+						</span>
+						<span class="field-validation-valid text-danger">
+							@Html.ValidationMessageFor(x => x.Email)
+						</span>
+					</div>
+
+					<div class="wrap-input100 validate-input" data-validate="Password is required">
+						@Html.TextBoxFor(x=>x.Matkhau, new{@class="input100",type="password",placeholder="Password"})
+						@* <input class="input100" type="password" name="pass" placeholder="Password"> *@
+						<span class="focus-input100"></span>
+						<span class="symbol-input100">
+							<i class="fa fa-lock" aria-hidden="true"></i>
+						</span>
+						<span class="field-validation-valid text-danger">
+							@Html.ValidationMessageFor(x => x.Matkhau)
+						</span>
+					</div>
+					<div class="wrap-input100 validate-input" data-validate="NumberPhone is requiredrequired">
+						@Html.TextBoxFor(x=>x.Dienthoai, new{@class="input100",placeholder="Số điện thoại"})
+						@* 						<input class="input100" type="text" name="email" placeholder="Email"> *@
+						<span class="focus-input100"></span>
+						<span class="symbol-input100">
+							<i class="fa fa-envelope" aria-hidden="true"></i>
+						</span>
+						<span class="field-validation-valid text-danger">
+							@Html.ValidationMessageFor(x => x.Dienthoai)
+						</span>
+					</div>
+					@TempData["error"]
+					<div class="container-login100-form-btn">
+						<button class="login100-form-btn" type="submit">
+							Sign Up
+						</button>
+					</div>
+				}
+				@* 				</form> *@
+			</div>
+		</div>
+	</div>
+
+
+
+
+	<!--===============================================================================================-->
+	<script src="~Login/vendor/jquery/jquery-3.2.1.min.js"></script>
+	<!--===============================================================================================-->
+	<script src="~Login/vendor/bootstrap/js/popper.js"></script>
+	<script src="~Login/vendor/bootstrap/js/bootstrap.min.js"></script>
+	<!--===============================================================================================-->
+	<script src="~Login/vendor/select2/select2.min.js"></script>
+	<!--===============================================================================================-->
+	<script src="~Login/vendor/tilt/tilt.jquery.min.js"></script>
+	<script>
+		$('.js-tilt').tilt({
+			scale: 1.1
+		})
+	</script>
+	<!--===============================================================================================-->
+	<script src="~/Login/js/main.js"></script>
+</body>
+</html>

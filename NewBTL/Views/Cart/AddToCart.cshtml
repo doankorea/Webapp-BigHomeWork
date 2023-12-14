@@ -1,0 +1,106 @@
+﻿@model Cart
+@{
+    ViewData["Title"] = "AddToCart";
+    Layout = "~/Views/Shared/LayoutCart.cshtml";
+}
+
+<div class="container-fluid">
+        <div class="row px-xl-5">
+            <div class="col-lg-8 table-responsive mb-5">
+                <table class="table table-light table-borderless table-hover text-center mb-0">
+                    <thead class="thead-dark">
+                        <tr>
+                            <th>Products</th>
+                            <th>Price</th>
+                            <th>Quantity</th>
+                            <th>Total</th>
+                            <th>Remove</th>
+                        </tr>
+                    </thead>
+                    <tbody class="align-middle">
+                    @foreach (var line in Model?.Lines ?? Enumerable.Empty<CartLine>())
+                    {
+                        <tr>
+                            <td class="align-middle"><img src="@Url.Content("~/ProductsImages"+ @line.Product.Anhbia)" alt="" style="width: 50px;"> @line.Product.Tensp</td>
+                            <td class="align-middle">@line.Product.Giatien</td>
+                            <td class="align-middle">
+                                <div class="input-group quantity mx-auto" style="width: 100px;">
+                                    <div class="input-group-btn">
+                                        <a href="/Cart/UpdateCart/?maSP=@line.Product.Masp" class="btn btn-sm btn-primary btn-minus">
+                                        <i class="fa fa-minus"></i>
+                                        </a>
+                                    </div>
+                                    <input type="text" class="form-control form-control-sm bg-secondary border-0 text-center" value="@line.Quantity">
+                                    <div class="input-group-btn">
+                                        <a href="/Cart/AddToCart/?maSP=@line.Product.Masp" class="btn btn-sm btn-primary btn-plus">
+                                            <i class="fa fa-plus"></i>
+                                        </a>
+                                    </div>
+                                </div>
+                            </td>
+                            <td class="align-middle">$@(line.Product.Giatien*line.Quantity)</td>
+                            <td class="align-middle"><a href="/Cart/RemoveFromCart/?maSP=@line.Product.Masp" class="btn btn-sm btn-danger"><i class="fa fa-times"></i></a></td>
+                        </tr>
+                        }
+                    </tbody>
+                </table>
+            <div>
+                Tên: @ViewBag.UserName
+            </div>
+            <div>
+                User ID: @ViewBag.UserId
+            </div>
+            <div>
+                Số điện thoại: @ViewBag.dienthoai
+            </div>
+            <form method="post" action="@Url.Action("Checkout", "Cart")">
+                <div class="form-group">
+                    <div>
+                        <label for="diachi">Địa chỉ giao hàng:</label>
+                        <br />
+                           <textarea name="diachi"></textarea>
+                    </div>
+                    <label for="maTT">Chọn phương thức thanh toán:</label>
+                    <select class="form-control" id="maTT" name="tinhTrangThanhToan">
+                        <option value="1">Thanh toán tiền mặt</option>
+                        <option value="2">Thanh toán chuyển khoản</option>
+                    </select>
+                </div>
+                <div>
+                    <a asp-controller="Home" asp-action="Index">Tiếp tục mua hàng --></a>
+                </div>
+                <button class="btn btn-block btn-primary font-weight-bold my-3 py-3">Đặt hàng</button>
+            </form>
+            </div>
+            <div class="col-lg-4">
+                <form class="mb-30" action="">
+                    <div class="input-group">
+                        <input type="text" class="form-control border-0 p-4" placeholder="Coupon Code">
+                        <div class="input-group-append">
+                            <button class="btn btn-primary">Apply Coupon</button>
+                        </div>
+                    </div>
+                </form>
+                <h5 class="section-title position-relative text-uppercase mb-3"><span class="bg-secondary pr-3">Cart Summary</span></h5>
+                <div class="bg-light p-30 mb-5">
+                    <div class="border-bottom pb-2">
+                        <div class="d-flex justify-content-between mb-3">
+                            <h6>Subtotal</h6>
+                        <h6>@Model.ComputeTotalValues()₫</h6>
+                        </div>
+                        <div class="d-flex justify-content-between">
+                            <h6 class="font-weight-medium">Shipping</h6>
+                        <h6 class="font-weight-medium">0₫</h6>
+                        </div>
+                    </div>
+                    <div class="pt-2">
+                        <div class="d-flex justify-content-between mt-2">
+                            <h5>Total</h5>
+                        <h5>@Model.ComputeTotalValues()₫</h5>
+                        </div>
+                       
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>

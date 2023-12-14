@@ -1,0 +1,2913 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\NewBTL.bundle.scp.css",
+      "PackagePath": "staticwebassets\\NewBTL.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\HinhanhSP\\35ae93f1-5a12-4def-8e9e-6985a9ab954f_logo1.jpg",
+      "PackagePath": "staticwebassets\\HinhanhSP\\35ae93f1-5a12-4def-8e9e-6985a9ab954f_logo1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\HinhanhSP\\avt2.jpg",
+      "PackagePath": "staticwebassets\\HinhanhSP\\avt2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\HinhanhSP\\avt3.jpg",
+      "PackagePath": "staticwebassets\\HinhanhSP\\avt3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\HinhanhSP\\avt4.jpg",
+      "PackagePath": "staticwebassets\\HinhanhSP\\avt4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\HinhanhSP\\ban1.jpg",
+      "PackagePath": "staticwebassets\\HinhanhSP\\ban1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\HinhanhSP\\ban2.jpg",
+      "PackagePath": "staticwebassets\\HinhanhSP\\ban2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\HinhanhSP\\banner.png",
+      "PackagePath": "staticwebassets\\HinhanhSP\\banner.png"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\HinhanhSP\\ip3.jpg",
+      "PackagePath": "staticwebassets\\HinhanhSP\\ip3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\HinhanhSP\\ip4.jpg",
+      "PackagePath": "staticwebassets\\HinhanhSP\\ip4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\HinhanhSP\\ip5.jpg",
+      "PackagePath": "staticwebassets\\HinhanhSP\\ip5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\HinhanhSP\\ip6.jpg",
+      "PackagePath": "staticwebassets\\HinhanhSP\\ip6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\HinhanhSP\\ip7.jpg",
+      "PackagePath": "staticwebassets\\HinhanhSP\\ip7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\HinhanhSP\\logo1.jpg",
+      "PackagePath": "staticwebassets\\HinhanhSP\\logo1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\HinhanhSP\\mi31.jpg",
+      "PackagePath": "staticwebassets\\HinhanhSP\\mi31.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\HinhanhSP\\mi4.jpg",
+      "PackagePath": "staticwebassets\\HinhanhSP\\mi4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\HinhanhSP\\mi5.jpg",
+      "PackagePath": "staticwebassets\\HinhanhSP\\mi5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\HinhanhSP\\mi6.jpg",
+      "PackagePath": "staticwebassets\\HinhanhSP\\mi6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\HinhanhSP\\mi7.jpg",
+      "PackagePath": "staticwebassets\\HinhanhSP\\mi7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\HinhanhSP\\qc3.gif",
+      "PackagePath": "staticwebassets\\HinhanhSP\\qc3.gif"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\HinhanhSP\\spnb1.png",
+      "PackagePath": "staticwebassets\\HinhanhSP\\spnb1.png"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\HinhanhSP\\spnb2.png",
+      "PackagePath": "staticwebassets\\HinhanhSP\\spnb2.png"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\HinhanhSP\\spnb3.png",
+      "PackagePath": "staticwebassets\\HinhanhSP\\spnb3.png"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\HinhanhSP\\ss1.jpg",
+      "PackagePath": "staticwebassets\\HinhanhSP\\ss1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\HinhanhSP\\ss2.jpg",
+      "PackagePath": "staticwebassets\\HinhanhSP\\ss2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\HinhanhSP\\ss3.jpg",
+      "PackagePath": "staticwebassets\\HinhanhSP\\ss3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\HinhanhSP\\ss4.jpg",
+      "PackagePath": "staticwebassets\\HinhanhSP\\ss4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\HinhanhSP\\ss5.jpg",
+      "PackagePath": "staticwebassets\\HinhanhSP\\ss5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Images\\_thumbs\\Files\\avt2.jpg",
+      "PackagePath": "staticwebassets\\Images\\_thumbs\\Files\\avt2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Images\\_thumbs\\Files\\avt3.jpg",
+      "PackagePath": "staticwebassets\\Images\\_thumbs\\Files\\avt3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Images\\_thumbs\\Files\\avt4.jpg",
+      "PackagePath": "staticwebassets\\Images\\_thumbs\\Files\\avt4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Images\\_thumbs\\Files\\ban1.jpg",
+      "PackagePath": "staticwebassets\\Images\\_thumbs\\Files\\ban1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Images\\_thumbs\\Files\\ban2.jpg",
+      "PackagePath": "staticwebassets\\Images\\_thumbs\\Files\\ban2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Images\\_thumbs\\Files\\banner.png",
+      "PackagePath": "staticwebassets\\Images\\_thumbs\\Files\\banner.png"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Images\\_thumbs\\Files\\bia.jpg",
+      "PackagePath": "staticwebassets\\Images\\_thumbs\\Files\\bia.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Images\\_thumbs\\Files\\ip3.jpg",
+      "PackagePath": "staticwebassets\\Images\\_thumbs\\Files\\ip3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Images\\_thumbs\\Files\\ip4.jpg",
+      "PackagePath": "staticwebassets\\Images\\_thumbs\\Files\\ip4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Images\\_thumbs\\Files\\ip5.jpg",
+      "PackagePath": "staticwebassets\\Images\\_thumbs\\Files\\ip5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Images\\_thumbs\\Files\\ip6.jpg",
+      "PackagePath": "staticwebassets\\Images\\_thumbs\\Files\\ip6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Images\\_thumbs\\Files\\ip7.jpg",
+      "PackagePath": "staticwebassets\\Images\\_thumbs\\Files\\ip7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Images\\_thumbs\\Files\\logo1.jpg",
+      "PackagePath": "staticwebassets\\Images\\_thumbs\\Files\\logo1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Images\\_thumbs\\Files\\mc.png",
+      "PackagePath": "staticwebassets\\Images\\_thumbs\\Files\\mc.png"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Images\\_thumbs\\Files\\mi31.jpg",
+      "PackagePath": "staticwebassets\\Images\\_thumbs\\Files\\mi31.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Images\\_thumbs\\Files\\mi4.jpg",
+      "PackagePath": "staticwebassets\\Images\\_thumbs\\Files\\mi4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Images\\_thumbs\\Files\\mi5.jpg",
+      "PackagePath": "staticwebassets\\Images\\_thumbs\\Files\\mi5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Images\\_thumbs\\Files\\mi6.jpg",
+      "PackagePath": "staticwebassets\\Images\\_thumbs\\Files\\mi6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Images\\_thumbs\\Files\\mi7.jpg",
+      "PackagePath": "staticwebassets\\Images\\_thumbs\\Files\\mi7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Images\\_thumbs\\Files\\qc3.gif",
+      "PackagePath": "staticwebassets\\Images\\_thumbs\\Files\\qc3.gif"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Images\\_thumbs\\Files\\qtchannuoi.png",
+      "PackagePath": "staticwebassets\\Images\\_thumbs\\Files\\qtchannuoi.png"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Images\\_thumbs\\Files\\qtchebien1.png",
+      "PackagePath": "staticwebassets\\Images\\_thumbs\\Files\\qtchebien1.png"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Images\\_thumbs\\Files\\qtchebien2.png",
+      "PackagePath": "staticwebassets\\Images\\_thumbs\\Files\\qtchebien2.png"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Images\\_thumbs\\Files\\qtdonggoi.png",
+      "PackagePath": "staticwebassets\\Images\\_thumbs\\Files\\qtdonggoi.png"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Images\\_thumbs\\Files\\qtlaysua.png",
+      "PackagePath": "staticwebassets\\Images\\_thumbs\\Files\\qtlaysua.png"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Images\\_thumbs\\Files\\spnb1.png",
+      "PackagePath": "staticwebassets\\Images\\_thumbs\\Files\\spnb1.png"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Images\\_thumbs\\Files\\spnb2.png",
+      "PackagePath": "staticwebassets\\Images\\_thumbs\\Files\\spnb2.png"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Images\\_thumbs\\Files\\spnb3.png",
+      "PackagePath": "staticwebassets\\Images\\_thumbs\\Files\\spnb3.png"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Images\\_thumbs\\Files\\ss1.jpg",
+      "PackagePath": "staticwebassets\\Images\\_thumbs\\Files\\ss1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Images\\_thumbs\\Files\\ss2.jpg",
+      "PackagePath": "staticwebassets\\Images\\_thumbs\\Files\\ss2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Images\\_thumbs\\Files\\ss3.jpg",
+      "PackagePath": "staticwebassets\\Images\\_thumbs\\Files\\ss3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Images\\_thumbs\\Files\\ss4.jpg",
+      "PackagePath": "staticwebassets\\Images\\_thumbs\\Files\\ss4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Images\\_thumbs\\Files\\ss5.jpg",
+      "PackagePath": "staticwebassets\\Images\\_thumbs\\Files\\ss5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Images\\_thumbs\\Files\\thanhtrungchai.jpg",
+      "PackagePath": "staticwebassets\\Images\\_thumbs\\Files\\thanhtrungchai.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Images\\_thumbs\\Files\\tiettrung.jpg",
+      "PackagePath": "staticwebassets\\Images\\_thumbs\\Files\\tiettrung.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Images\\files\\14.jpg",
+      "PackagePath": "staticwebassets\\Images\\files\\14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Images\\files\\14promax.jpg",
+      "PackagePath": "staticwebassets\\Images\\files\\14promax.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Images\\files\\15.jpg",
+      "PackagePath": "staticwebassets\\Images\\files\\15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Images\\files\\15pls.jpg",
+      "PackagePath": "staticwebassets\\Images\\files\\15pls.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Images\\files\\58048b05-cd5b-460b-8add-784ed68f16af_avt3.jpg",
+      "PackagePath": "staticwebassets\\Images\\files\\58048b05-cd5b-460b-8add-784ed68f16af_avt3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Images\\files\\7065f4d7-47fc-4c62-b538-cd4c917d8e2a_ip3.jpg",
+      "PackagePath": "staticwebassets\\Images\\files\\7065f4d7-47fc-4c62-b538-cd4c917d8e2a_ip3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Images\\files\\Redmi-Note-12.jpg",
+      "PackagePath": "staticwebassets\\Images\\files\\Redmi-Note-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Images\\files\\SamsungGalaxyA34.jpg",
+      "PackagePath": "staticwebassets\\Images\\files\\SamsungGalaxyA34.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Images\\files\\SamsungGalaxyS20FE.jpg",
+      "PackagePath": "staticwebassets\\Images\\files\\SamsungGalaxyS20FE.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Images\\files\\Xiaomi13t.jpg",
+      "PackagePath": "staticwebassets\\Images\\files\\Xiaomi13t.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Images\\files\\avt2.jpg",
+      "PackagePath": "staticwebassets\\Images\\files\\avt2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Images\\files\\avt3.jpg",
+      "PackagePath": "staticwebassets\\Images\\files\\avt3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Images\\files\\avt4.jpg",
+      "PackagePath": "staticwebassets\\Images\\files\\avt4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Images\\files\\ban1.jpg",
+      "PackagePath": "staticwebassets\\Images\\files\\ban1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Images\\files\\ban2.jpg",
+      "PackagePath": "staticwebassets\\Images\\files\\ban2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Images\\files\\banner.png",
+      "PackagePath": "staticwebassets\\Images\\files\\banner.png"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Images\\files\\bia.jpg",
+      "PackagePath": "staticwebassets\\Images\\files\\bia.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Images\\files\\galaxy-z-flip5-2.jpg",
+      "PackagePath": "staticwebassets\\Images\\files\\galaxy-z-flip5-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Images\\files\\ip3.jpg",
+      "PackagePath": "staticwebassets\\Images\\files\\ip3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Images\\files\\ip4.jpg",
+      "PackagePath": "staticwebassets\\Images\\files\\ip4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Images\\files\\ip5.jpg",
+      "PackagePath": "staticwebassets\\Images\\files\\ip5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Images\\files\\ip6.jpg",
+      "PackagePath": "staticwebassets\\Images\\files\\ip6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Images\\files\\ip7.jpg",
+      "PackagePath": "staticwebassets\\Images\\files\\ip7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Images\\files\\logo1.jpg",
+      "PackagePath": "staticwebassets\\Images\\files\\logo1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Images\\files\\mi31.jpg",
+      "PackagePath": "staticwebassets\\Images\\files\\mi31.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Images\\files\\mi4.jpg",
+      "PackagePath": "staticwebassets\\Images\\files\\mi4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Images\\files\\mi5.jpg",
+      "PackagePath": "staticwebassets\\Images\\files\\mi5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Images\\files\\mi6.jpg",
+      "PackagePath": "staticwebassets\\Images\\files\\mi6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Images\\files\\mi7.jpg",
+      "PackagePath": "staticwebassets\\Images\\files\\mi7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Images\\files\\qc3.gif",
+      "PackagePath": "staticwebassets\\Images\\files\\qc3.gif"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Images\\files\\spnb1.png",
+      "PackagePath": "staticwebassets\\Images\\files\\spnb1.png"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Images\\files\\spnb2.png",
+      "PackagePath": "staticwebassets\\Images\\files\\spnb2.png"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Images\\files\\spnb3.png",
+      "PackagePath": "staticwebassets\\Images\\files\\spnb3.png"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Images\\files\\ss1.jpg",
+      "PackagePath": "staticwebassets\\Images\\files\\ss1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Images\\files\\ss2.jpg",
+      "PackagePath": "staticwebassets\\Images\\files\\ss2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Images\\files\\ss3.jpg",
+      "PackagePath": "staticwebassets\\Images\\files\\ss3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Images\\files\\ss4.jpg",
+      "PackagePath": "staticwebassets\\Images\\files\\ss4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Images\\files\\ss5.jpg",
+      "PackagePath": "staticwebassets\\Images\\files\\ss5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Images\\files\\z-fold-5.jpg",
+      "PackagePath": "staticwebassets\\Images\\files\\z-fold-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\.browserslistrc",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\.browserslistrc"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\.eslintignore",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\.eslintignore"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\.eslintrc.json",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\.eslintrc.json"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\.prettierignore",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\.prettierignore"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\.prettierrc.json",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\.prettierrc.json"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\CHANGELOG.md",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\CHANGELOG.md"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\LICENSE.md",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\README.md",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\assets\\css\\demo.css",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\css\\demo.css"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\assets\\img\\avatars\\1.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\avatars\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\assets\\img\\avatars\\5.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\avatars\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\assets\\img\\avatars\\6.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\avatars\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\assets\\img\\avatars\\7.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\avatars\\7.png"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\assets\\img\\backgrounds\\18.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\backgrounds\\18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\assets\\img\\elements\\1.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\elements\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\assets\\img\\elements\\11.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\elements\\11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\assets\\img\\elements\\12.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\elements\\12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\assets\\img\\elements\\13.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\elements\\13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\assets\\img\\elements\\17.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\elements\\17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\assets\\img\\elements\\18.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\elements\\18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\assets\\img\\elements\\19.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\elements\\19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\assets\\img\\elements\\2.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\elements\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\assets\\img\\elements\\20.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\elements\\20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\assets\\img\\elements\\3.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\elements\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\assets\\img\\elements\\4.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\elements\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\assets\\img\\elements\\5.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\elements\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\assets\\img\\elements\\7.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\elements\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\assets\\img\\favicon\\favicon.ico",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\favicon\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\assets\\img\\icons\\brands\\asana.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\icons\\brands\\asana.png"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\assets\\img\\icons\\brands\\behance.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\icons\\brands\\behance.png"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\assets\\img\\icons\\brands\\dribbble.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\icons\\brands\\dribbble.png"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\assets\\img\\icons\\brands\\facebook.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\icons\\brands\\facebook.png"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\assets\\img\\icons\\brands\\github.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\icons\\brands\\github.png"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\assets\\img\\icons\\brands\\google.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\icons\\brands\\google.png"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\assets\\img\\icons\\brands\\instagram.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\icons\\brands\\instagram.png"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\assets\\img\\icons\\brands\\mailchimp.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\icons\\brands\\mailchimp.png"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\assets\\img\\icons\\brands\\slack.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\icons\\brands\\slack.png"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\assets\\img\\icons\\brands\\twitter.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\icons\\brands\\twitter.png"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\assets\\img\\icons\\unicons\\cc-primary.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\icons\\unicons\\cc-primary.png"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\assets\\img\\icons\\unicons\\cc-success.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\icons\\unicons\\cc-success.png"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\assets\\img\\icons\\unicons\\cc-warning.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\icons\\unicons\\cc-warning.png"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\assets\\img\\icons\\unicons\\chart-success.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\icons\\unicons\\chart-success.png"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\assets\\img\\icons\\unicons\\chart.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\icons\\unicons\\chart.png"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\assets\\img\\icons\\unicons\\paypal.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\icons\\unicons\\paypal.png"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\assets\\img\\icons\\unicons\\wallet-info.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\icons\\unicons\\wallet-info.png"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\assets\\img\\icons\\unicons\\wallet.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\icons\\unicons\\wallet.png"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\assets\\img\\illustrations\\girl-doing-yoga-light.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\illustrations\\girl-doing-yoga-light.png"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\assets\\img\\illustrations\\man-with-laptop-light.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\illustrations\\man-with-laptop-light.png"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\assets\\img\\illustrations\\page-misc-error-light.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\illustrations\\page-misc-error-light.png"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\assets\\img\\layouts\\layout-container-light.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\layouts\\layout-container-light.png"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\assets\\img\\layouts\\layout-fluid-light.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\layouts\\layout-fluid-light.png"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\assets\\img\\layouts\\layout-without-menu-light.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\layouts\\layout-without-menu-light.png"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\assets\\img\\layouts\\layout-without-navbar-light.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\layouts\\layout-without-navbar-light.png"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\assets\\js\\config.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\config.js"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\assets\\js\\dashboards-analytics.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\dashboards-analytics.js"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\assets\\js\\extended-ui-perfect-scrollbar.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\extended-ui-perfect-scrollbar.js"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\assets\\js\\form-basic-inputs.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\form-basic-inputs.js"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\assets\\js\\pages-account-settings-account.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\pages-account-settings-account.js"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\assets\\js\\ui-modals.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\ui-modals.js"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\assets\\js\\ui-popover.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\ui-popover.js"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\assets\\js\\ui-toasts.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\ui-toasts.js"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\assets\\vendor\\css\\core.css",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendor\\css\\core.css"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\assets\\vendor\\css\\pages\\page-account-settings.css",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendor\\css\\pages\\page-account-settings.css"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\assets\\vendor\\css\\pages\\page-auth.css",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendor\\css\\pages\\page-auth.css"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\assets\\vendor\\css\\pages\\page-icons.css",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendor\\css\\pages\\page-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\assets\\vendor\\css\\pages\\page-misc.css",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendor\\css\\pages\\page-misc.css"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\assets\\vendor\\css\\theme-default.css",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendor\\css\\theme-default.css"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\assets\\vendor\\fonts\\boxicons.css",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendor\\fonts\\boxicons.css"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\assets\\vendor\\fonts\\boxicons\\boxicons.eot",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendor\\fonts\\boxicons\\boxicons.eot"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\assets\\vendor\\fonts\\boxicons\\boxicons.svg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendor\\fonts\\boxicons\\boxicons.svg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\assets\\vendor\\fonts\\boxicons\\boxicons.ttf",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendor\\fonts\\boxicons\\boxicons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\assets\\vendor\\fonts\\boxicons\\boxicons.woff",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendor\\fonts\\boxicons\\boxicons.woff"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\assets\\vendor\\fonts\\boxicons\\boxicons.woff2",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendor\\fonts\\boxicons\\boxicons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\assets\\vendor\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendor\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\assets\\vendor\\js\\helpers.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendor\\js\\helpers.js"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\assets\\vendor\\js\\menu.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendor\\js\\menu.js"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\assets\\vendor\\libs\\apex-charts\\apex-charts.css",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendor\\libs\\apex-charts\\apex-charts.css"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\assets\\vendor\\libs\\apex-charts\\apexcharts.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendor\\libs\\apex-charts\\apexcharts.js"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\assets\\vendor\\libs\\highlight\\highlight-github.css",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendor\\libs\\highlight\\highlight-github.css"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\assets\\vendor\\libs\\highlight\\highlight.css",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendor\\libs\\highlight\\highlight.css"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\assets\\vendor\\libs\\highlight\\highlight.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendor\\libs\\highlight\\highlight.js"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\assets\\vendor\\libs\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendor\\libs\\jquery\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\assets\\vendor\\libs\\masonry\\masonry.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendor\\libs\\masonry\\masonry.js"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\assets\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.css",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.css"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\assets\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.js"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\assets\\vendor\\libs\\popper\\popper.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendor\\libs\\popper\\popper.js"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\build-config.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\build-config.js"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\documentation.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\documentation.html"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\fonts\\boxicons.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\fonts\\boxicons.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\gulpfile.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\gulpfile.js"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\html\\auth-forgot-password-basic.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\html\\auth-forgot-password-basic.html"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\html\\auth-login-basic.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\html\\auth-login-basic.html"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\html\\auth-register-basic.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\html\\auth-register-basic.html"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\html\\cards-basic.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\html\\cards-basic.html"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\html\\extended-ui-perfect-scrollbar.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\html\\extended-ui-perfect-scrollbar.html"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\html\\extended-ui-text-divider.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\html\\extended-ui-text-divider.html"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\html\\form-layouts-horizontal.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\html\\form-layouts-horizontal.html"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\html\\form-layouts-vertical.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\html\\form-layouts-vertical.html"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\html\\forms-basic-inputs.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\html\\forms-basic-inputs.html"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\html\\forms-input-groups.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\html\\forms-input-groups.html"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\html\\icons-boxicons.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\html\\icons-boxicons.html"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\html\\index.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\html\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\html\\layouts-blank.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\html\\layouts-blank.html"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\html\\layouts-container.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\html\\layouts-container.html"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\html\\layouts-fluid.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\html\\layouts-fluid.html"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\html\\layouts-without-menu.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\html\\layouts-without-menu.html"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\html\\layouts-without-navbar.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\html\\layouts-without-navbar.html"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\html\\pages-account-settings-account.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\html\\pages-account-settings-account.html"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\html\\pages-account-settings-connections.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\html\\pages-account-settings-connections.html"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\html\\pages-account-settings-notifications.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\html\\pages-account-settings-notifications.html"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\html\\pages-misc-error.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\html\\pages-misc-error.html"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\html\\pages-misc-under-maintenance.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\html\\pages-misc-under-maintenance.html"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\html\\tables-basic.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\html\\tables-basic.html"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\html\\ui-accordion.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\html\\ui-accordion.html"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\html\\ui-alerts.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\html\\ui-alerts.html"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\html\\ui-badges.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\html\\ui-badges.html"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\html\\ui-buttons.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\html\\ui-buttons.html"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\html\\ui-carousel.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\html\\ui-carousel.html"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\html\\ui-collapse.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\html\\ui-collapse.html"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\html\\ui-dropdowns.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\html\\ui-dropdowns.html"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\html\\ui-footer.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\html\\ui-footer.html"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\html\\ui-list-groups.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\html\\ui-list-groups.html"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\html\\ui-modals.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\html\\ui-modals.html"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\html\\ui-navbar.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\html\\ui-navbar.html"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\html\\ui-offcanvas.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\html\\ui-offcanvas.html"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\html\\ui-pagination-breadcrumbs.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\html\\ui-pagination-breadcrumbs.html"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\html\\ui-progress.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\html\\ui-progress.html"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\html\\ui-spinners.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\html\\ui-spinners.html"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\html\\ui-tabs-pills.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\html\\ui-tabs-pills.html"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\html\\ui-toasts.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\html\\ui-toasts.html"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\html\\ui-tooltips-popovers.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\html\\ui-tooltips-popovers.html"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\html\\ui-typography.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\html\\ui-typography.html"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\index.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\js\\JavaScript.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\js\\JavaScript.js"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\js\\helpers.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\js\\helpers.js"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\js\\menu.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\js\\menu.js"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\libs\\apex-charts\\apex-charts.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\libs\\apex-charts\\apex-charts.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\libs\\apex-charts\\apexcharts.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\libs\\apex-charts\\apexcharts.js"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\libs\\highlight\\highlight-github.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\libs\\highlight\\highlight-github.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\libs\\highlight\\highlight.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\libs\\highlight\\highlight.js"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\libs\\highlight\\highlight.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\libs\\highlight\\highlight.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\libs\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\libs\\jquery\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\libs\\masonry\\masonry.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\libs\\masonry\\masonry.js"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\libs\\perfect-scrollbar\\perfect-scrollbar.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\libs\\perfect-scrollbar\\perfect-scrollbar.js"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\libs\\perfect-scrollbar\\perfect-scrollbar.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\libs\\perfect-scrollbar\\perfect-scrollbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\libs\\popper\\popper.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\libs\\popper\\popper.js"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\package-lock.json",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\package-lock.json"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\package.json",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\scss\\_bootstrap-extended.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\_bootstrap-extended.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\scss\\_bootstrap-extended\\_accordion.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\_bootstrap-extended\\_accordion.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\scss\\_bootstrap-extended\\_alert.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\_bootstrap-extended\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\scss\\_bootstrap-extended\\_badge.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\_bootstrap-extended\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\scss\\_bootstrap-extended\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\_bootstrap-extended\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\scss\\_bootstrap-extended\\_button-group.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\_bootstrap-extended\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\scss\\_bootstrap-extended\\_buttons.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\_bootstrap-extended\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\scss\\_bootstrap-extended\\_card.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\_bootstrap-extended\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\scss\\_bootstrap-extended\\_carousel.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\_bootstrap-extended\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\scss\\_bootstrap-extended\\_close.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\_bootstrap-extended\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\scss\\_bootstrap-extended\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\_bootstrap-extended\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\scss\\_bootstrap-extended\\_forms.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\_bootstrap-extended\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\scss\\_bootstrap-extended\\_functions.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\_bootstrap-extended\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\scss\\_bootstrap-extended\\_include.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\_bootstrap-extended\\_include.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\scss\\_bootstrap-extended\\_list-group.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\_bootstrap-extended\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\scss\\_bootstrap-extended\\_mixins.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\_bootstrap-extended\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\scss\\_bootstrap-extended\\_modal.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\_bootstrap-extended\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\scss\\_bootstrap-extended\\_nav.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\_bootstrap-extended\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\scss\\_bootstrap-extended\\_navbar.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\_bootstrap-extended\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\scss\\_bootstrap-extended\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\_bootstrap-extended\\_offcanvas.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\scss\\_bootstrap-extended\\_pagination.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\_bootstrap-extended\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\scss\\_bootstrap-extended\\_popover.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\_bootstrap-extended\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\scss\\_bootstrap-extended\\_progress.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\_bootstrap-extended\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\scss\\_bootstrap-extended\\_reboot.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\_bootstrap-extended\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\scss\\_bootstrap-extended\\_root.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\_bootstrap-extended\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\scss\\_bootstrap-extended\\_spinners.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\_bootstrap-extended\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\scss\\_bootstrap-extended\\_tables.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\_bootstrap-extended\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\scss\\_bootstrap-extended\\_toasts.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\_bootstrap-extended\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\scss\\_bootstrap-extended\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\_bootstrap-extended\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\scss\\_bootstrap-extended\\_type.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\_bootstrap-extended\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\scss\\_bootstrap-extended\\_utilities-ltr.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\_bootstrap-extended\\_utilities-ltr.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\scss\\_bootstrap-extended\\_utilities.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\_bootstrap-extended\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\scss\\_bootstrap-extended\\_variables.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\_bootstrap-extended\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\scss\\_bootstrap-extended\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\_bootstrap-extended\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\scss\\_bootstrap-extended\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\_bootstrap-extended\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\scss\\_bootstrap-extended\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\_bootstrap-extended\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\scss\\_bootstrap-extended\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\_bootstrap-extended\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\scss\\_bootstrap-extended\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\_bootstrap-extended\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\scss\\_bootstrap-extended\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\_bootstrap-extended\\forms\\_labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\scss\\_bootstrap-extended\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\_bootstrap-extended\\forms\\_validation.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\scss\\_bootstrap-extended\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\_bootstrap-extended\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\scss\\_bootstrap-extended\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\_bootstrap-extended\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\scss\\_bootstrap-extended\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\_bootstrap-extended\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\scss\\_bootstrap-extended\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\_bootstrap-extended\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\scss\\_bootstrap-extended\\mixins\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\_bootstrap-extended\\mixins\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\scss\\_bootstrap-extended\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\_bootstrap-extended\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\scss\\_bootstrap-extended\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\_bootstrap-extended\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\scss\\_bootstrap-extended\\mixins\\_misc.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\_bootstrap-extended\\mixins\\_misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\scss\\_bootstrap-extended\\mixins\\_navs.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\_bootstrap-extended\\mixins\\_navs.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\scss\\_bootstrap-extended\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\_bootstrap-extended\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\scss\\_bootstrap-extended\\mixins\\_progress.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\_bootstrap-extended\\mixins\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\scss\\_bootstrap-extended\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\_bootstrap-extended\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\scss\\_bootstrap-extended\\mixins\\_toasts.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\_bootstrap-extended\\mixins\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\scss\\_bootstrap.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\_bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\scss\\_colors.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\_colors.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\scss\\_components.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\_components.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\scss\\_components\\_app-brand.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\_components\\_app-brand.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\scss\\_components\\_avatar.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\_components\\_avatar.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\scss\\_components\\_base.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\_components\\_base.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\scss\\_components\\_common.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\_components\\_common.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\scss\\_components\\_footer.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\_components\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\scss\\_components\\_include.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\_components\\_include.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\scss\\_components\\_layout.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\_components\\_layout.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\scss\\_components\\_menu.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\_components\\_menu.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\scss\\_components\\_mixins.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\_components\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\scss\\_components\\_text-divider.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\_components\\_text-divider.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\scss\\_components\\_variables.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\_components\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\scss\\_components\\mixins\\_app-brand.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\_components\\mixins\\_app-brand.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\scss\\_components\\mixins\\_avatar.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\_components\\mixins\\_avatar.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\scss\\_components\\mixins\\_footer.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\_components\\mixins\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\scss\\_components\\mixins\\_menu.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\_components\\mixins\\_menu.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\scss\\_components\\mixins\\_misc.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\_components\\mixins\\_misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\scss\\_components\\mixins\\_navbar.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\_components\\mixins\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\scss\\_components\\mixins\\_text-divider.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\_components\\mixins\\_text-divider.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\scss\\_custom-variables\\_bootstrap-extended.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\_custom-variables\\_bootstrap-extended.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\scss\\_custom-variables\\_components.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\_custom-variables\\_components.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\scss\\_custom-variables\\_libs.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\_custom-variables\\_libs.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\scss\\_custom-variables\\_pages.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\_custom-variables\\_pages.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\scss\\_custom-variables\\_support.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\_custom-variables\\_support.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\scss\\_theme\\_common.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\_theme\\_common.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\scss\\_theme\\_theme.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\_theme\\_theme.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\scss\\core.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\core.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\scss\\pages\\page-account-settings.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\pages\\page-account-settings.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\scss\\pages\\page-auth.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\pages\\page-auth.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\scss\\pages\\page-icons.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\pages\\page-icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\scss\\pages\\page-misc.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\pages\\page-misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\scss\\theme-default.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\theme-default.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\tasks\\build.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\tasks\\build.js"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\tasks\\prod.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\tasks\\prod.js"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\webpack.config.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\webpack.config.js"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\LayoutAdmin\\yarn.lock",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\yarn.lock"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\Layout\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\Layout\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\Layout\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\Layout\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\Layout\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Layout\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\css\\style.css",
+      "PackagePath": "staticwebassets\\Layout\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\css\\style.min.css",
+      "PackagePath": "staticwebassets\\Layout\\css\\style.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\img\\carousel-1.jpg",
+      "PackagePath": "staticwebassets\\Layout\\img\\carousel-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\img\\carousel-2.jpg",
+      "PackagePath": "staticwebassets\\Layout\\img\\carousel-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\img\\carousel-3.jpg",
+      "PackagePath": "staticwebassets\\Layout\\img\\carousel-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\img\\cat-1.jpg",
+      "PackagePath": "staticwebassets\\Layout\\img\\cat-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\img\\cat-2.jpg",
+      "PackagePath": "staticwebassets\\Layout\\img\\cat-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\img\\cat-3.jpg",
+      "PackagePath": "staticwebassets\\Layout\\img\\cat-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\img\\cat-4.jpg",
+      "PackagePath": "staticwebassets\\Layout\\img\\cat-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\img\\offer-1.jpg",
+      "PackagePath": "staticwebassets\\Layout\\img\\offer-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\img\\offer-2.jpg",
+      "PackagePath": "staticwebassets\\Layout\\img\\offer-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\img\\payments.png",
+      "PackagePath": "staticwebassets\\Layout\\img\\payments.png"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\img\\product-1.jpg",
+      "PackagePath": "staticwebassets\\Layout\\img\\product-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\img\\product-2.jpg",
+      "PackagePath": "staticwebassets\\Layout\\img\\product-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\img\\product-3.jpg",
+      "PackagePath": "staticwebassets\\Layout\\img\\product-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\img\\product-4.jpg",
+      "PackagePath": "staticwebassets\\Layout\\img\\product-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\img\\product-5.jpg",
+      "PackagePath": "staticwebassets\\Layout\\img\\product-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\img\\product-6.jpg",
+      "PackagePath": "staticwebassets\\Layout\\img\\product-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\img\\product-7.jpg",
+      "PackagePath": "staticwebassets\\Layout\\img\\product-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\img\\product-8.jpg",
+      "PackagePath": "staticwebassets\\Layout\\img\\product-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\img\\product-9.jpg",
+      "PackagePath": "staticwebassets\\Layout\\img\\product-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\img\\user.jpg",
+      "PackagePath": "staticwebassets\\Layout\\img\\user.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\img\\vendor-1.jpg",
+      "PackagePath": "staticwebassets\\Layout\\img\\vendor-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\img\\vendor-2.jpg",
+      "PackagePath": "staticwebassets\\Layout\\img\\vendor-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\img\\vendor-3.jpg",
+      "PackagePath": "staticwebassets\\Layout\\img\\vendor-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\img\\vendor-4.jpg",
+      "PackagePath": "staticwebassets\\Layout\\img\\vendor-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\img\\vendor-5.jpg",
+      "PackagePath": "staticwebassets\\Layout\\img\\vendor-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\img\\vendor-6.jpg",
+      "PackagePath": "staticwebassets\\Layout\\img\\vendor-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\img\\vendor-7.jpg",
+      "PackagePath": "staticwebassets\\Layout\\img\\vendor-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\img\\vendor-8.jpg",
+      "PackagePath": "staticwebassets\\Layout\\img\\vendor-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\js\\main.js",
+      "PackagePath": "staticwebassets\\Layout\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\lib\\animate\\animate.min.css",
+      "PackagePath": "staticwebassets\\Layout\\lib\\animate\\animate.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\Layout\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\Layout\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\Layout\\lib\\owlcarousel"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\Layout\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\Layout\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\Layout\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\Layout\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\Layout\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\Layout\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\Layout\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\Layout\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\Layout\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\Layout\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\mail\\contact.js",
+      "PackagePath": "staticwebassets\\Layout\\mail\\contact.js"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\mail\\contact.php",
+      "PackagePath": "staticwebassets\\Layout\\mail\\contact.php"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\mail\\jqBootstrapValidation.min.js",
+      "PackagePath": "staticwebassets\\Layout\\mail\\jqBootstrapValidation.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\scss\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\scss\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\scss\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\scss\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\scss\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\scss\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\scss\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\scss\\bootstrap\\scss\\_code.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\scss\\_code.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\scss\\bootstrap\\scss\\_custom-forms.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\scss\\_custom-forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\scss\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\scss\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\scss\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\scss\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\scss\\bootstrap\\scss\\_input-group.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\scss\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\scss\\bootstrap\\scss\\_jumbotron.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\scss\\_jumbotron.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\scss\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\scss\\bootstrap\\scss\\_media.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\scss\\_media.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\scss\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\scss\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\scss\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\scss\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\scss\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\scss\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\scss\\bootstrap\\scss\\_print.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\scss\\_print.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\scss\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\scss\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\scss\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\scss\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\scss\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\scss\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\scss\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\scss\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\scss\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\scss\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\scss\\bootstrap\\scss\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\scss\\mixins\\_background-variant.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\scss\\bootstrap\\scss\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\scss\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\scss\\bootstrap\\scss\\mixins\\_float.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\scss\\mixins\\_float.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\scss\\bootstrap\\scss\\mixins\\_grid-framework.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\scss\\mixins\\_grid-framework.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\scss\\bootstrap\\scss\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\scss\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\scss\\bootstrap\\scss\\mixins\\_nav-divider.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\scss\\mixins\\_nav-divider.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\scss\\bootstrap\\scss\\mixins\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\scss\\mixins\\_screen-reader.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\scss\\bootstrap\\scss\\mixins\\_size.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\scss\\mixins\\_size.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\scss\\bootstrap\\scss\\mixins\\_table-row.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\scss\\mixins\\_table-row.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\scss\\bootstrap\\scss\\mixins\\_text-emphasis.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\scss\\mixins\\_text-emphasis.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\scss\\bootstrap\\scss\\mixins\\_text-hide.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\scss\\mixins\\_text-hide.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\scss\\bootstrap\\scss\\mixins\\_visibility.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\scss\\mixins\\_visibility.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\scss\\bootstrap\\scss\\utilities\\_align.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\scss\\utilities\\_align.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\scss\\bootstrap\\scss\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\scss\\utilities\\_background.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\scss\\bootstrap\\scss\\utilities\\_borders.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\scss\\utilities\\_borders.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\scss\\bootstrap\\scss\\utilities\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\scss\\utilities\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\scss\\bootstrap\\scss\\utilities\\_display.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\scss\\utilities\\_display.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\scss\\bootstrap\\scss\\utilities\\_embed.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\scss\\utilities\\_embed.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\scss\\bootstrap\\scss\\utilities\\_flex.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\scss\\utilities\\_flex.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\scss\\bootstrap\\scss\\utilities\\_float.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\scss\\utilities\\_float.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\scss\\bootstrap\\scss\\utilities\\_interactions.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\scss\\utilities\\_interactions.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\scss\\bootstrap\\scss\\utilities\\_overflow.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\scss\\utilities\\_overflow.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\scss\\bootstrap\\scss\\utilities\\_position.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\scss\\utilities\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\scss\\bootstrap\\scss\\utilities\\_screenreaders.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\scss\\utilities\\_screenreaders.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\scss\\bootstrap\\scss\\utilities\\_shadows.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\scss\\utilities\\_shadows.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\scss\\bootstrap\\scss\\utilities\\_sizing.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\scss\\utilities\\_sizing.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\scss\\bootstrap\\scss\\utilities\\_spacing.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\scss\\utilities\\_spacing.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\scss\\bootstrap\\scss\\utilities\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\scss\\utilities\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\scss\\bootstrap\\scss\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\scss\\utilities\\_text.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\scss\\bootstrap\\scss\\utilities\\_visibility.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\scss\\utilities\\_visibility.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Layout\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\Layout\\scss\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Login\\css\\main.css",
+      "PackagePath": "staticwebassets\\Login\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Login\\css\\util.css",
+      "PackagePath": "staticwebassets\\Login\\css\\util.css"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\HELP-US-OUT.txt",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\HELP-US-OUT.txt"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\less\\animated.less",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\less\\animated.less"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\less\\bordered-pulled.less",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\less\\bordered-pulled.less"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\less\\core.less",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\less\\core.less"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\less\\fixed-width.less",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\less\\fixed-width.less"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\less\\font-awesome.less",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\less\\font-awesome.less"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\less\\icons.less",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\less\\icons.less"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\less\\larger.less",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\less\\larger.less"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\less\\list.less",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\less\\list.less"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\less\\mixins.less",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\less\\mixins.less"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\less\\path.less",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\less\\path.less"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\less\\rotated-flipped.less",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\less\\rotated-flipped.less"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\less\\screen-reader.less",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\less\\screen-reader.less"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\less\\stacked.less",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\less\\stacked.less"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\less\\variables.less",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\less\\variables.less"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\scss\\_animated.scss",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\scss\\_animated.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\scss\\_core.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\scss\\_fixed-width.scss",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\scss\\_fixed-width.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\scss\\_icons.scss",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\scss\\_icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\scss\\_larger.scss",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\scss\\_larger.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\scss\\_list.scss",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\scss\\_list.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\scss\\_path.scss",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\scss\\_path.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\scss\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\scss\\_screen-reader.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\scss\\_stacked.scss",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\scss\\_stacked.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\scss\\font-awesome.scss",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\scss\\font-awesome.scss"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Login\\fonts\\montserrat\\Montserrat-Black.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\montserrat\\Montserrat-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Login\\fonts\\montserrat\\Montserrat-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\montserrat\\Montserrat-BlackItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Login\\fonts\\montserrat\\Montserrat-Bold.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\montserrat\\Montserrat-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Login\\fonts\\montserrat\\Montserrat-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\montserrat\\Montserrat-BoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Login\\fonts\\montserrat\\Montserrat-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\montserrat\\Montserrat-ExtraBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Login\\fonts\\montserrat\\Montserrat-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\montserrat\\Montserrat-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Login\\fonts\\montserrat\\Montserrat-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\montserrat\\Montserrat-ExtraLight.ttf"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Login\\fonts\\montserrat\\Montserrat-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\montserrat\\Montserrat-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Login\\fonts\\montserrat\\Montserrat-Italic.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\montserrat\\Montserrat-Italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Login\\fonts\\montserrat\\Montserrat-Light.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\montserrat\\Montserrat-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Login\\fonts\\montserrat\\Montserrat-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\montserrat\\Montserrat-LightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Login\\fonts\\montserrat\\Montserrat-Medium.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\montserrat\\Montserrat-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Login\\fonts\\montserrat\\Montserrat-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\montserrat\\Montserrat-MediumItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Login\\fonts\\montserrat\\Montserrat-Regular.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\montserrat\\Montserrat-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Login\\fonts\\montserrat\\Montserrat-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\montserrat\\Montserrat-SemiBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Login\\fonts\\montserrat\\Montserrat-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\montserrat\\Montserrat-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Login\\fonts\\montserrat\\Montserrat-Thin.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\montserrat\\Montserrat-Thin.ttf"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Login\\fonts\\montserrat\\Montserrat-ThinItalic.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\montserrat\\Montserrat-ThinItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Login\\fonts\\montserrat\\OFL.txt",
+      "PackagePath": "staticwebassets\\Login\\fonts\\montserrat\\OFL.txt"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Login\\fonts\\poppins\\Poppins-Black.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\poppins\\Poppins-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Login\\fonts\\poppins\\Poppins-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\poppins\\Poppins-BlackItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Login\\fonts\\poppins\\Poppins-Bold.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\poppins\\Poppins-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Login\\fonts\\poppins\\Poppins-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\poppins\\Poppins-BoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Login\\fonts\\poppins\\Poppins-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\poppins\\Poppins-ExtraBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Login\\fonts\\poppins\\Poppins-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\poppins\\Poppins-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Login\\fonts\\poppins\\Poppins-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\poppins\\Poppins-ExtraLight.ttf"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Login\\fonts\\poppins\\Poppins-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\poppins\\Poppins-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Login\\fonts\\poppins\\Poppins-Italic.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\poppins\\Poppins-Italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Login\\fonts\\poppins\\Poppins-Light.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\poppins\\Poppins-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Login\\fonts\\poppins\\Poppins-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\poppins\\Poppins-LightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Login\\fonts\\poppins\\Poppins-Medium.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\poppins\\Poppins-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Login\\fonts\\poppins\\Poppins-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\poppins\\Poppins-MediumItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Login\\fonts\\poppins\\Poppins-Regular.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\poppins\\Poppins-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Login\\fonts\\poppins\\Poppins-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\poppins\\Poppins-SemiBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Login\\fonts\\poppins\\Poppins-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\poppins\\Poppins-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Login\\fonts\\poppins\\Poppins-Thin.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\poppins\\Poppins-Thin.ttf"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Login\\fonts\\poppins\\Poppins-ThinItalic.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\poppins\\Poppins-ThinItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Login\\images\\icons\\favicon.ico",
+      "PackagePath": "staticwebassets\\Login\\images\\icons\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Login\\images\\img-01.png",
+      "PackagePath": "staticwebassets\\Login\\images\\img-01.png"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Login\\js\\main.js",
+      "PackagePath": "staticwebassets\\Login\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Login\\vendor\\animate\\animate.css",
+      "PackagePath": "staticwebassets\\Login\\vendor\\animate\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Login\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\Login\\vendor\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Login\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\Login\\vendor\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Login\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\Login\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Login\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\Login\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Login\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\Login\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Login\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\Login\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Login\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\Login\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Login\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\Login\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Login\\vendor\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\Login\\vendor\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Login\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\Login\\vendor\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Login\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Login\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Login\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\Login\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Login\\vendor\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\Login\\vendor\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Login\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Login\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Login\\vendor\\bootstrap\\js\\popper.js",
+      "PackagePath": "staticwebassets\\Login\\vendor\\bootstrap\\js\\popper.js"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Login\\vendor\\bootstrap\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\Login\\vendor\\bootstrap\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Login\\vendor\\bootstrap\\js\\tooltip.js",
+      "PackagePath": "staticwebassets\\Login\\vendor\\bootstrap\\js\\tooltip.js"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Login\\vendor\\css-hamburgers\\hamburgers.css",
+      "PackagePath": "staticwebassets\\Login\\vendor\\css-hamburgers\\hamburgers.css"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Login\\vendor\\css-hamburgers\\hamburgers.min.css",
+      "PackagePath": "staticwebassets\\Login\\vendor\\css-hamburgers\\hamburgers.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Login\\vendor\\jquery\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\Login\\vendor\\jquery\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Login\\vendor\\select2\\select2.css",
+      "PackagePath": "staticwebassets\\Login\\vendor\\select2\\select2.css"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Login\\vendor\\select2\\select2.js",
+      "PackagePath": "staticwebassets\\Login\\vendor\\select2\\select2.js"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Login\\vendor\\select2\\select2.min.css",
+      "PackagePath": "staticwebassets\\Login\\vendor\\select2\\select2.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Login\\vendor\\select2\\select2.min.js",
+      "PackagePath": "staticwebassets\\Login\\vendor\\select2\\select2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Login\\vendor\\tilt\\tilt.jquery.min.js",
+      "PackagePath": "staticwebassets\\Login\\vendor\\tilt\\tilt.jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\ProductsImages\\Images\\_thumbs\\Files\\avt2.jpg",
+      "PackagePath": "staticwebassets\\ProductsImages\\Images\\_thumbs\\Files\\avt2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\ProductsImages\\Images\\_thumbs\\Files\\avt3.jpg",
+      "PackagePath": "staticwebassets\\ProductsImages\\Images\\_thumbs\\Files\\avt3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\ProductsImages\\Images\\_thumbs\\Files\\avt4.jpg",
+      "PackagePath": "staticwebassets\\ProductsImages\\Images\\_thumbs\\Files\\avt4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\ProductsImages\\Images\\_thumbs\\Files\\ban1.jpg",
+      "PackagePath": "staticwebassets\\ProductsImages\\Images\\_thumbs\\Files\\ban1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\ProductsImages\\Images\\_thumbs\\Files\\ban2.jpg",
+      "PackagePath": "staticwebassets\\ProductsImages\\Images\\_thumbs\\Files\\ban2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\ProductsImages\\Images\\_thumbs\\Files\\banner.png",
+      "PackagePath": "staticwebassets\\ProductsImages\\Images\\_thumbs\\Files\\banner.png"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\ProductsImages\\Images\\_thumbs\\Files\\bia.jpg",
+      "PackagePath": "staticwebassets\\ProductsImages\\Images\\_thumbs\\Files\\bia.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\ProductsImages\\Images\\_thumbs\\Files\\ip.jpg",
+      "PackagePath": "staticwebassets\\ProductsImages\\Images\\_thumbs\\Files\\ip.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\ProductsImages\\Images\\_thumbs\\Files\\ip3.jpg",
+      "PackagePath": "staticwebassets\\ProductsImages\\Images\\_thumbs\\Files\\ip3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\ProductsImages\\Images\\_thumbs\\Files\\ip4.jpg",
+      "PackagePath": "staticwebassets\\ProductsImages\\Images\\_thumbs\\Files\\ip4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\ProductsImages\\Images\\_thumbs\\Files\\ip5.jpg",
+      "PackagePath": "staticwebassets\\ProductsImages\\Images\\_thumbs\\Files\\ip5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\ProductsImages\\Images\\_thumbs\\Files\\ip6.jpg",
+      "PackagePath": "staticwebassets\\ProductsImages\\Images\\_thumbs\\Files\\ip6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\ProductsImages\\Images\\_thumbs\\Files\\ip7.jpg",
+      "PackagePath": "staticwebassets\\ProductsImages\\Images\\_thumbs\\Files\\ip7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\ProductsImages\\Images\\_thumbs\\Files\\logo1.jpg",
+      "PackagePath": "staticwebassets\\ProductsImages\\Images\\_thumbs\\Files\\logo1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\ProductsImages\\Images\\_thumbs\\Files\\mc.png",
+      "PackagePath": "staticwebassets\\ProductsImages\\Images\\_thumbs\\Files\\mc.png"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\ProductsImages\\Images\\_thumbs\\Files\\mi31.jpg",
+      "PackagePath": "staticwebassets\\ProductsImages\\Images\\_thumbs\\Files\\mi31.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\ProductsImages\\Images\\_thumbs\\Files\\mi4.jpg",
+      "PackagePath": "staticwebassets\\ProductsImages\\Images\\_thumbs\\Files\\mi4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\ProductsImages\\Images\\_thumbs\\Files\\mi5.jpg",
+      "PackagePath": "staticwebassets\\ProductsImages\\Images\\_thumbs\\Files\\mi5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\ProductsImages\\Images\\_thumbs\\Files\\mi6.jpg",
+      "PackagePath": "staticwebassets\\ProductsImages\\Images\\_thumbs\\Files\\mi6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\ProductsImages\\Images\\_thumbs\\Files\\mi7.jpg",
+      "PackagePath": "staticwebassets\\ProductsImages\\Images\\_thumbs\\Files\\mi7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\ProductsImages\\Images\\_thumbs\\Files\\qc3.gif",
+      "PackagePath": "staticwebassets\\ProductsImages\\Images\\_thumbs\\Files\\qc3.gif"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\ProductsImages\\Images\\_thumbs\\Files\\qtchannuoi.png",
+      "PackagePath": "staticwebassets\\ProductsImages\\Images\\_thumbs\\Files\\qtchannuoi.png"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\ProductsImages\\Images\\_thumbs\\Files\\qtchebien1.png",
+      "PackagePath": "staticwebassets\\ProductsImages\\Images\\_thumbs\\Files\\qtchebien1.png"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\ProductsImages\\Images\\_thumbs\\Files\\qtchebien2.png",
+      "PackagePath": "staticwebassets\\ProductsImages\\Images\\_thumbs\\Files\\qtchebien2.png"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\ProductsImages\\Images\\_thumbs\\Files\\qtdonggoi.png",
+      "PackagePath": "staticwebassets\\ProductsImages\\Images\\_thumbs\\Files\\qtdonggoi.png"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\ProductsImages\\Images\\_thumbs\\Files\\qtlaysua.png",
+      "PackagePath": "staticwebassets\\ProductsImages\\Images\\_thumbs\\Files\\qtlaysua.png"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\ProductsImages\\Images\\_thumbs\\Files\\spnb1.png",
+      "PackagePath": "staticwebassets\\ProductsImages\\Images\\_thumbs\\Files\\spnb1.png"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\ProductsImages\\Images\\_thumbs\\Files\\spnb2.png",
+      "PackagePath": "staticwebassets\\ProductsImages\\Images\\_thumbs\\Files\\spnb2.png"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\ProductsImages\\Images\\_thumbs\\Files\\spnb3.png",
+      "PackagePath": "staticwebassets\\ProductsImages\\Images\\_thumbs\\Files\\spnb3.png"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\ProductsImages\\Images\\_thumbs\\Files\\ss1.jpg",
+      "PackagePath": "staticwebassets\\ProductsImages\\Images\\_thumbs\\Files\\ss1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\ProductsImages\\Images\\_thumbs\\Files\\ss2.jpg",
+      "PackagePath": "staticwebassets\\ProductsImages\\Images\\_thumbs\\Files\\ss2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\ProductsImages\\Images\\_thumbs\\Files\\ss3.jpg",
+      "PackagePath": "staticwebassets\\ProductsImages\\Images\\_thumbs\\Files\\ss3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\ProductsImages\\Images\\_thumbs\\Files\\ss4.jpg",
+      "PackagePath": "staticwebassets\\ProductsImages\\Images\\_thumbs\\Files\\ss4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\ProductsImages\\Images\\_thumbs\\Files\\ss5.jpg",
+      "PackagePath": "staticwebassets\\ProductsImages\\Images\\_thumbs\\Files\\ss5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\ProductsImages\\Images\\_thumbs\\Files\\thanhtrungchai.jpg",
+      "PackagePath": "staticwebassets\\ProductsImages\\Images\\_thumbs\\Files\\thanhtrungchai.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\ProductsImages\\Images\\_thumbs\\Files\\tiettrung.jpg",
+      "PackagePath": "staticwebassets\\ProductsImages\\Images\\_thumbs\\Files\\tiettrung.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\ProductsImages\\Images\\files\\avt2.jpg",
+      "PackagePath": "staticwebassets\\ProductsImages\\Images\\files\\avt2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\ProductsImages\\Images\\files\\avt3.jpg",
+      "PackagePath": "staticwebassets\\ProductsImages\\Images\\files\\avt3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\ProductsImages\\Images\\files\\avt4.jpg",
+      "PackagePath": "staticwebassets\\ProductsImages\\Images\\files\\avt4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\ProductsImages\\Images\\files\\ban1.jpg",
+      "PackagePath": "staticwebassets\\ProductsImages\\Images\\files\\ban1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\ProductsImages\\Images\\files\\ban2.jpg",
+      "PackagePath": "staticwebassets\\ProductsImages\\Images\\files\\ban2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\ProductsImages\\Images\\files\\banner.png",
+      "PackagePath": "staticwebassets\\ProductsImages\\Images\\files\\banner.png"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\ProductsImages\\Images\\files\\bia.jpg",
+      "PackagePath": "staticwebassets\\ProductsImages\\Images\\files\\bia.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\ProductsImages\\Images\\files\\ip.jpg",
+      "PackagePath": "staticwebassets\\ProductsImages\\Images\\files\\ip.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\ProductsImages\\Images\\files\\ip3.jpg",
+      "PackagePath": "staticwebassets\\ProductsImages\\Images\\files\\ip3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\ProductsImages\\Images\\files\\ip4.jpg",
+      "PackagePath": "staticwebassets\\ProductsImages\\Images\\files\\ip4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\ProductsImages\\Images\\files\\ip5.jpg",
+      "PackagePath": "staticwebassets\\ProductsImages\\Images\\files\\ip5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\ProductsImages\\Images\\files\\ip6.jpg",
+      "PackagePath": "staticwebassets\\ProductsImages\\Images\\files\\ip6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\ProductsImages\\Images\\files\\ip7.jpg",
+      "PackagePath": "staticwebassets\\ProductsImages\\Images\\files\\ip7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\ProductsImages\\Images\\files\\logo1.jpg",
+      "PackagePath": "staticwebassets\\ProductsImages\\Images\\files\\logo1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\ProductsImages\\Images\\files\\mi31.jpg",
+      "PackagePath": "staticwebassets\\ProductsImages\\Images\\files\\mi31.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\ProductsImages\\Images\\files\\mi4.jpg",
+      "PackagePath": "staticwebassets\\ProductsImages\\Images\\files\\mi4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\ProductsImages\\Images\\files\\mi5.jpg",
+      "PackagePath": "staticwebassets\\ProductsImages\\Images\\files\\mi5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\ProductsImages\\Images\\files\\mi6.jpg",
+      "PackagePath": "staticwebassets\\ProductsImages\\Images\\files\\mi6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\ProductsImages\\Images\\files\\mi7.jpg",
+      "PackagePath": "staticwebassets\\ProductsImages\\Images\\files\\mi7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\ProductsImages\\Images\\files\\qc3.gif",
+      "PackagePath": "staticwebassets\\ProductsImages\\Images\\files\\qc3.gif"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\ProductsImages\\Images\\files\\spnb1.png",
+      "PackagePath": "staticwebassets\\ProductsImages\\Images\\files\\spnb1.png"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\ProductsImages\\Images\\files\\spnb2.png",
+      "PackagePath": "staticwebassets\\ProductsImages\\Images\\files\\spnb2.png"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\ProductsImages\\Images\\files\\spnb3.png",
+      "PackagePath": "staticwebassets\\ProductsImages\\Images\\files\\spnb3.png"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\ProductsImages\\Images\\files\\ss1.jpg",
+      "PackagePath": "staticwebassets\\ProductsImages\\Images\\files\\ss1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\ProductsImages\\Images\\files\\ss2.jpg",
+      "PackagePath": "staticwebassets\\ProductsImages\\Images\\files\\ss2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\ProductsImages\\Images\\files\\ss3.jpg",
+      "PackagePath": "staticwebassets\\ProductsImages\\Images\\files\\ss3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\ProductsImages\\Images\\files\\ss4.jpg",
+      "PackagePath": "staticwebassets\\ProductsImages\\Images\\files\\ss4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\ProductsImages\\Images\\files\\ss5.jpg",
+      "PackagePath": "staticwebassets\\ProductsImages\\Images\\files\\ss5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Upload\\HinhSP\\avt4.jpg",
+      "PackagePath": "staticwebassets\\Upload\\HinhSP\\avt4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Upload\\HinhSP\\hc.jpg",
+      "PackagePath": "staticwebassets\\Upload\\HinhSP\\hc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Upload\\HinhSP\\ip3.jpg",
+      "PackagePath": "staticwebassets\\Upload\\HinhSP\\ip3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Upload\\HinhSP\\ip6.jpg",
+      "PackagePath": "staticwebassets\\Upload\\HinhSP\\ip6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Upload\\HinhSP\\ss4.jpg",
+      "PackagePath": "staticwebassets\\Upload\\HinhSP\\ss4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\Upload\\HinhSP\\ss5.jpg",
+      "PackagePath": "staticwebassets\\Upload\\HinhSP\\ss5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DucPC\\Documents\\Save_Code\\NewBTL\\NewBTL\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.NewBTL.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.NewBTL.props",
+      "PackagePath": "build\\NewBTL.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.NewBTL.props",
+      "PackagePath": "buildMultiTargeting\\NewBTL.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.NewBTL.props",
+      "PackagePath": "buildTransitive\\NewBTL.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

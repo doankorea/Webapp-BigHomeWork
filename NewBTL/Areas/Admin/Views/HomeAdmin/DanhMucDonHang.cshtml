@@ -1,0 +1,81 @@
+﻿@model IEnumerable<NewBTL.Models.Donhang>
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@{
+    ViewData["Title"] = "DanhMucDonHang";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h1>DanhMucDonHang</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr class="table-active">
+            <th>
+                Họ tên
+            </th>
+            <th>
+                Ngày đặt
+            </th>
+            <th>
+                Tình trạng đơn hàng
+            </th>
+            <th>
+                Thanh toán
+            </th>
+            <th>
+                Địa chỉ nhận hàng
+            </th>
+            <th>
+                Chi tiết
+            </th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr class="table-active">
+                <td>
+                    @item.MaNguoidungNavigation.Hoten
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Ngaydat)
+                </td>
+                <td>
+                    @{
+                        if (@item.Tinhtrang == 0)
+                        {
+                            <h5 style="color:red">Đang chờ xác nhận. </h5>
+                        }
+                        else if (@item.Tinhtrang == 1)
+                        {
+                            <h5 style="color:green">Đã xác nhận </h5>
+                        }
+                        else
+                        {
+                            <h5 style="color:orangered">Đang chờ xác nhận </h5>
+                        }
+                    }
+                </td>
+                <td>
+                    @{
+                        if (@item.Thanhtoan == 1)
+                        {
+                            <div style="color:red">Thanh toán tiền mặt</div>
+                        }
+                        else if (@item.Thanhtoan == 2)
+                        {
+                            <div style="color:brown">Thanh toán chuyển khoản</div>
+                        }
+                    }
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Diachinhanhang)
+                </td>
+            <td>
+                    <a asp-action="ChiTietDonHang" asp-route-maDon="@item.Madon">Details</a>
+            </td>
+        </tr>
+}
+</table>

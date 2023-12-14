@@ -1,0 +1,73 @@
+﻿@model IEnumerable<NewBTL.Models.Nguoidung>
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@{
+    ViewData["Title"] = "DanhMucNguoiDung";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h1>DanhMucNguoiDung</h1>
+
+<p>
+    <a asp-action="ThemNguoiDungMoi">Create New</a>
+</p>
+<p>@TempData["Message"]</p>
+<table class="table">
+    <thead>
+        <tr class="table-active">
+            <th>
+                Họ tên
+            </th>
+            <th>
+                Email
+            </th>
+            <th>
+                SĐT
+            </th>
+            <th>
+                Mật khẩu
+            </th>
+            <th>
+                Địa chỉ
+            </th>
+            <th>
+                Ảnh đại diện
+            </th>
+            <th>
+                ID quyền
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+            <tr class="table-active">
+            <td>
+                @Html.DisplayFor(modelItem => item.Hoten)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Email)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Dienthoai)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Matkhau)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Diachi)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Anhdaidien)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Idquyen)
+            </td>
+            <td>
+                <a asp-action="SuaNguoiDung" asp-route-maND="@item.MaNguoiDung">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.MaNguoiDung">Details</a> |
+                <a asp-action="XoaNguoiDung" asp-route-maND="@item.MaNguoiDung">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

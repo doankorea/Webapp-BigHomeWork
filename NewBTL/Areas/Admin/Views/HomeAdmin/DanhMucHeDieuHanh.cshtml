@@ -1,0 +1,43 @@
+﻿@model IEnumerable<NewBTL.Models.Hedieuhanh>
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@{
+    ViewData["Title"] = "DanhMucHeDieuHanh";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h1>DanhMucHeDieuHanh</h1>
+
+<p>
+    <a asp-action="ThemHeDieuHanhMoi">Create New</a>
+</p>
+<p>@TempData["Message"]</p>
+<table class="table">
+    <thead>
+        <tr class="table-active">
+            <th>
+                Mã HĐH
+            </th>
+            <th>
+                Tên HĐH
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+            <tr class="table-active">
+                <td>
+                    @Html.DisplayFor(modelItem => item.Mahdh)
+                </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Tenhdh)
+            </td>
+            <td>
+                <a asp-action="SuaHeDieuHanh" asp-route-maHDH="@item.Mahdh">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.Mahdh">Details</a> |
+                <a asp-action="XoaHeDieuHanh" asp-route-maHDH="@item.Mahdh">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

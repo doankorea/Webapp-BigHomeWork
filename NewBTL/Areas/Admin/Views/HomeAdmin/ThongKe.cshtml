@@ -1,0 +1,40 @@
+﻿@model IEnumerable<NewBTL.Models.Thongke>
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@{
+    ViewData["Title"] = "ThongKe";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h1>ThongKe</h1>
+
+<table class="table">
+    <thead>
+        <tr class="table-active">
+            <th>
+                @Html.DisplayNameFor(model => model.Tennguoidung)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Dienthoai)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Tongtien)
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+            <tr class="table-active">
+            <td>
+                @Html.DisplayFor(modelItem => item.Tennguoidung)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Dienthoai)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Tongtien)
+            </td>
+
+        </tr>
+}
+    </tbody>
+</table>

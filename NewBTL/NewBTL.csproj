@@ -1,0 +1,288 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="wwwroot\Images\flash\**" />
+    <Compile Remove="wwwroot\Images\images\**" />
+    <Content Remove="wwwroot\Images\flash\**" />
+    <Content Remove="wwwroot\Images\images\**" />
+    <EmbeddedResource Remove="wwwroot\Images\flash\**" />
+    <EmbeddedResource Remove="wwwroot\Images\images\**" />
+    <None Remove="wwwroot\Images\flash\**" />
+    <None Remove="wwwroot\Images\images\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Remove="wwwroot\Layout\img\spnb1.png" />
+    <Content Remove="wwwroot\Layout\img\spnb2.png" />
+    <Content Remove="wwwroot\Layout\img\spnb3.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNet.Mvc" Version="5.3.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.13" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="7.0.13" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="7.0.13">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.16" />
+    <PackageReference Include="PagedList.Mvc" Version="4.5.0" />
+    <PackageReference Include="X.PagedList.Mvc.Core" Version="8.4.7" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Areas\Admin\Data\" />
+    <Folder Include="Areas\Admin\Models\" />
+    <Folder Include="wwwroot\ProductsImages\Images\flash\" />
+    <Folder Include="wwwroot\ProductsImages\Images\images\" />
+    <Folder Include="wwwroot\Upload\HinhSP\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Views\Shared\Components\LoaiSpmenu\Default.cshtml" />
+    <None Include="wwwroot\HinhanhSP\avt2.jpg" />
+    <None Include="wwwroot\HinhanhSP\avt3.jpg" />
+    <None Include="wwwroot\HinhanhSP\avt4.jpg" />
+    <None Include="wwwroot\HinhanhSP\ban1.jpg" />
+    <None Include="wwwroot\HinhanhSP\ban2.jpg" />
+    <None Include="wwwroot\HinhanhSP\banner.png" />
+    <None Include="wwwroot\HinhanhSP\ip3.jpg" />
+    <None Include="wwwroot\HinhanhSP\ip4.jpg" />
+    <None Include="wwwroot\HinhanhSP\ip5.jpg" />
+    <None Include="wwwroot\HinhanhSP\ip6.jpg" />
+    <None Include="wwwroot\HinhanhSP\ip7.jpg" />
+    <None Include="wwwroot\HinhanhSP\logo1.jpg" />
+    <None Include="wwwroot\HinhanhSP\mi31.jpg" />
+    <None Include="wwwroot\HinhanhSP\mi4.jpg" />
+    <None Include="wwwroot\HinhanhSP\mi5.jpg" />
+    <None Include="wwwroot\HinhanhSP\mi6.jpg" />
+    <None Include="wwwroot\HinhanhSP\mi7.jpg" />
+    <None Include="wwwroot\HinhanhSP\qc3.gif" />
+    <None Include="wwwroot\HinhanhSP\spnb1.png" />
+    <None Include="wwwroot\HinhanhSP\spnb2.png" />
+    <None Include="wwwroot\HinhanhSP\spnb3.png" />
+    <None Include="wwwroot\HinhanhSP\ss1.jpg" />
+    <None Include="wwwroot\HinhanhSP\ss2.jpg" />
+    <None Include="wwwroot\HinhanhSP\ss3.jpg" />
+    <None Include="wwwroot\HinhanhSP\ss4.jpg" />
+    <None Include="wwwroot\HinhanhSP\ss5.jpg" />
+    <None Include="wwwroot\Images\files\avt2.jpg" />
+    <None Include="wwwroot\Images\files\avt3.jpg" />
+    <None Include="wwwroot\Images\files\avt4.jpg" />
+    <None Include="wwwroot\Images\files\ban1.jpg" />
+    <None Include="wwwroot\Images\files\ban2.jpg" />
+    <None Include="wwwroot\Images\files\banner.png" />
+    <None Include="wwwroot\Images\files\bia.jpg" />
+    <None Include="wwwroot\Images\files\ip3.jpg" />
+    <None Include="wwwroot\Images\files\ip4.jpg" />
+    <None Include="wwwroot\Images\files\ip5.jpg" />
+    <None Include="wwwroot\Images\files\ip6.jpg" />
+    <None Include="wwwroot\Images\files\ip7.jpg" />
+    <None Include="wwwroot\Images\files\logo1.jpg" />
+    <None Include="wwwroot\Images\files\mi31.jpg" />
+    <None Include="wwwroot\Images\files\mi4.jpg" />
+    <None Include="wwwroot\Images\files\mi5.jpg" />
+    <None Include="wwwroot\Images\files\mi6.jpg" />
+    <None Include="wwwroot\Images\files\mi7.jpg" />
+    <None Include="wwwroot\Images\files\qc3.gif" />
+    <None Include="wwwroot\Images\files\spnb1.png" />
+    <None Include="wwwroot\Images\files\spnb2.png" />
+    <None Include="wwwroot\Images\files\spnb3.png" />
+    <None Include="wwwroot\Images\files\ss1.jpg" />
+    <None Include="wwwroot\Images\files\ss2.jpg" />
+    <None Include="wwwroot\Images\files\ss3.jpg" />
+    <None Include="wwwroot\Images\files\ss4.jpg" />
+    <None Include="wwwroot\Images\files\ss5.jpg" />
+    <None Include="wwwroot\Images\_thumbs\Files\avt2.jpg" />
+    <None Include="wwwroot\Images\_thumbs\Files\avt3.jpg" />
+    <None Include="wwwroot\Images\_thumbs\Files\avt4.jpg" />
+    <None Include="wwwroot\Images\_thumbs\Files\ban1.jpg" />
+    <None Include="wwwroot\Images\_thumbs\Files\ban2.jpg" />
+    <None Include="wwwroot\Images\_thumbs\Files\banner.png" />
+    <None Include="wwwroot\Images\_thumbs\Files\bia.jpg" />
+    <None Include="wwwroot\Images\_thumbs\Files\ip3.jpg" />
+    <None Include="wwwroot\Images\_thumbs\Files\ip4.jpg" />
+    <None Include="wwwroot\Images\_thumbs\Files\ip5.jpg" />
+    <None Include="wwwroot\Images\_thumbs\Files\ip6.jpg" />
+    <None Include="wwwroot\Images\_thumbs\Files\ip7.jpg" />
+    <None Include="wwwroot\Images\_thumbs\Files\logo1.jpg" />
+    <None Include="wwwroot\Images\_thumbs\Files\mc.png" />
+    <None Include="wwwroot\Images\_thumbs\Files\mi31.jpg" />
+    <None Include="wwwroot\Images\_thumbs\Files\mi4.jpg" />
+    <None Include="wwwroot\Images\_thumbs\Files\mi5.jpg" />
+    <None Include="wwwroot\Images\_thumbs\Files\mi6.jpg" />
+    <None Include="wwwroot\Images\_thumbs\Files\mi7.jpg" />
+    <None Include="wwwroot\Images\_thumbs\Files\qc3.gif" />
+    <None Include="wwwroot\Images\_thumbs\Files\qtchannuoi.png" />
+    <None Include="wwwroot\Images\_thumbs\Files\qtchebien1.png" />
+    <None Include="wwwroot\Images\_thumbs\Files\qtchebien2.png" />
+    <None Include="wwwroot\Images\_thumbs\Files\qtdonggoi.png" />
+    <None Include="wwwroot\Images\_thumbs\Files\qtlaysua.png" />
+    <None Include="wwwroot\Images\_thumbs\Files\spnb1.png" />
+    <None Include="wwwroot\Images\_thumbs\Files\spnb2.png" />
+    <None Include="wwwroot\Images\_thumbs\Files\spnb3.png" />
+    <None Include="wwwroot\Images\_thumbs\Files\ss1.jpg" />
+    <None Include="wwwroot\Images\_thumbs\Files\ss2.jpg" />
+    <None Include="wwwroot\Images\_thumbs\Files\ss3.jpg" />
+    <None Include="wwwroot\Images\_thumbs\Files\ss4.jpg" />
+    <None Include="wwwroot\Images\_thumbs\Files\ss5.jpg" />
+    <None Include="wwwroot\Images\_thumbs\Files\thanhtrungchai.jpg" />
+    <None Include="wwwroot\Images\_thumbs\Files\tiettrung.jpg" />
+    <None Include="wwwroot\Layout\img\spnb1.png" />
+    <None Include="wwwroot\Layout\img\spnb2.png" />
+    <None Include="wwwroot\Layout\img\spnb3.png" />
+    <None Include="wwwroot\Layout\js\main.js" />
+    <None Include="wwwroot\Layout\lib\easing\easing.js" />
+    <None Include="wwwroot\Layout\lib\easing\easing.min.js" />
+    <None Include="wwwroot\Layout\lib\owlcarousel\LICENSE" />
+    <None Include="wwwroot\Layout\lib\owlcarousel\owl.carousel.js" />
+    <None Include="wwwroot\Layout\lib\owlcarousel\owl.carousel.min.js" />
+    <None Include="wwwroot\Layout\mail\contact.js" />
+    <None Include="wwwroot\Layout\mail\contact.php" />
+    <None Include="wwwroot\Layout\mail\jqBootstrapValidation.min.js" />
+    <None Include="wwwroot\Layout\scss\bootstrap\scss\bootstrap-grid.scss" />
+    <None Include="wwwroot\Layout\scss\bootstrap\scss\bootstrap-reboot.scss" />
+    <None Include="wwwroot\Layout\scss\bootstrap\scss\bootstrap.scss" />
+    <None Include="wwwroot\Layout\scss\bootstrap\scss\mixins\_alert.scss" />
+    <None Include="wwwroot\Layout\scss\bootstrap\scss\mixins\_background-variant.scss" />
+    <None Include="wwwroot\Layout\scss\bootstrap\scss\mixins\_badge.scss" />
+    <None Include="wwwroot\Layout\scss\bootstrap\scss\mixins\_border-radius.scss" />
+    <None Include="wwwroot\Layout\scss\bootstrap\scss\mixins\_box-shadow.scss" />
+    <None Include="wwwroot\Layout\scss\bootstrap\scss\mixins\_breakpoints.scss" />
+    <None Include="wwwroot\Layout\scss\bootstrap\scss\mixins\_buttons.scss" />
+    <None Include="wwwroot\Layout\scss\bootstrap\scss\mixins\_caret.scss" />
+    <None Include="wwwroot\Layout\scss\bootstrap\scss\mixins\_clearfix.scss" />
+    <None Include="wwwroot\Layout\scss\bootstrap\scss\mixins\_deprecate.scss" />
+    <None Include="wwwroot\Layout\scss\bootstrap\scss\mixins\_float.scss" />
+    <None Include="wwwroot\Layout\scss\bootstrap\scss\mixins\_forms.scss" />
+    <None Include="wwwroot\Layout\scss\bootstrap\scss\mixins\_gradients.scss" />
+    <None Include="wwwroot\Layout\scss\bootstrap\scss\mixins\_grid-framework.scss" />
+    <None Include="wwwroot\Layout\scss\bootstrap\scss\mixins\_grid.scss" />
+    <None Include="wwwroot\Layout\scss\bootstrap\scss\mixins\_hover.scss" />
+    <None Include="wwwroot\Layout\scss\bootstrap\scss\mixins\_image.scss" />
+    <None Include="wwwroot\Layout\scss\bootstrap\scss\mixins\_list-group.scss" />
+    <None Include="wwwroot\Layout\scss\bootstrap\scss\mixins\_lists.scss" />
+    <None Include="wwwroot\Layout\scss\bootstrap\scss\mixins\_nav-divider.scss" />
+    <None Include="wwwroot\Layout\scss\bootstrap\scss\mixins\_pagination.scss" />
+    <None Include="wwwroot\Layout\scss\bootstrap\scss\mixins\_reset-text.scss" />
+    <None Include="wwwroot\Layout\scss\bootstrap\scss\mixins\_resize.scss" />
+    <None Include="wwwroot\Layout\scss\bootstrap\scss\mixins\_screen-reader.scss" />
+    <None Include="wwwroot\Layout\scss\bootstrap\scss\mixins\_size.scss" />
+    <None Include="wwwroot\Layout\scss\bootstrap\scss\mixins\_table-row.scss" />
+    <None Include="wwwroot\Layout\scss\bootstrap\scss\mixins\_text-emphasis.scss" />
+    <None Include="wwwroot\Layout\scss\bootstrap\scss\mixins\_text-hide.scss" />
+    <None Include="wwwroot\Layout\scss\bootstrap\scss\mixins\_text-truncate.scss" />
+    <None Include="wwwroot\Layout\scss\bootstrap\scss\mixins\_transition.scss" />
+    <None Include="wwwroot\Layout\scss\bootstrap\scss\mixins\_visibility.scss" />
+    <None Include="wwwroot\Layout\scss\bootstrap\scss\utilities\_align.scss" />
+    <None Include="wwwroot\Layout\scss\bootstrap\scss\utilities\_background.scss" />
+    <None Include="wwwroot\Layout\scss\bootstrap\scss\utilities\_borders.scss" />
+    <None Include="wwwroot\Layout\scss\bootstrap\scss\utilities\_clearfix.scss" />
+    <None Include="wwwroot\Layout\scss\bootstrap\scss\utilities\_display.scss" />
+    <None Include="wwwroot\Layout\scss\bootstrap\scss\utilities\_embed.scss" />
+    <None Include="wwwroot\Layout\scss\bootstrap\scss\utilities\_flex.scss" />
+    <None Include="wwwroot\Layout\scss\bootstrap\scss\utilities\_float.scss" />
+    <None Include="wwwroot\Layout\scss\bootstrap\scss\utilities\_interactions.scss" />
+    <None Include="wwwroot\Layout\scss\bootstrap\scss\utilities\_overflow.scss" />
+    <None Include="wwwroot\Layout\scss\bootstrap\scss\utilities\_position.scss" />
+    <None Include="wwwroot\Layout\scss\bootstrap\scss\utilities\_screenreaders.scss" />
+    <None Include="wwwroot\Layout\scss\bootstrap\scss\utilities\_shadows.scss" />
+    <None Include="wwwroot\Layout\scss\bootstrap\scss\utilities\_sizing.scss" />
+    <None Include="wwwroot\Layout\scss\bootstrap\scss\utilities\_spacing.scss" />
+    <None Include="wwwroot\Layout\scss\bootstrap\scss\utilities\_stretched-link.scss" />
+    <None Include="wwwroot\Layout\scss\bootstrap\scss\utilities\_text.scss" />
+    <None Include="wwwroot\Layout\scss\bootstrap\scss\utilities\_visibility.scss" />
+    <None Include="wwwroot\Layout\scss\bootstrap\scss\vendor\_rfs.scss" />
+    <None Include="wwwroot\Layout\scss\bootstrap\scss\_alert.scss" />
+    <None Include="wwwroot\Layout\scss\bootstrap\scss\_badge.scss" />
+    <None Include="wwwroot\Layout\scss\bootstrap\scss\_breadcrumb.scss" />
+    <None Include="wwwroot\Layout\scss\bootstrap\scss\_button-group.scss" />
+    <None Include="wwwroot\Layout\scss\bootstrap\scss\_buttons.scss" />
+    <None Include="wwwroot\Layout\scss\bootstrap\scss\_card.scss" />
+    <None Include="wwwroot\Layout\scss\bootstrap\scss\_carousel.scss" />
+    <None Include="wwwroot\Layout\scss\bootstrap\scss\_close.scss" />
+    <None Include="wwwroot\Layout\scss\bootstrap\scss\_code.scss" />
+    <None Include="wwwroot\Layout\scss\bootstrap\scss\_custom-forms.scss" />
+    <None Include="wwwroot\Layout\scss\bootstrap\scss\_dropdown.scss" />
+    <None Include="wwwroot\Layout\scss\bootstrap\scss\_forms.scss" />
+    <None Include="wwwroot\Layout\scss\bootstrap\scss\_functions.scss" />
+    <None Include="wwwroot\Layout\scss\bootstrap\scss\_grid.scss" />
+    <None Include="wwwroot\Layout\scss\bootstrap\scss\_images.scss" />
+    <None Include="wwwroot\Layout\scss\bootstrap\scss\_input-group.scss" />
+    <None Include="wwwroot\Layout\scss\bootstrap\scss\_jumbotron.scss" />
+    <None Include="wwwroot\Layout\scss\bootstrap\scss\_list-group.scss" />
+    <None Include="wwwroot\Layout\scss\bootstrap\scss\_media.scss" />
+    <None Include="wwwroot\Layout\scss\bootstrap\scss\_mixins.scss" />
+    <None Include="wwwroot\Layout\scss\bootstrap\scss\_modal.scss" />
+    <None Include="wwwroot\Layout\scss\bootstrap\scss\_nav.scss" />
+    <None Include="wwwroot\Layout\scss\bootstrap\scss\_navbar.scss" />
+    <None Include="wwwroot\Layout\scss\bootstrap\scss\_pagination.scss" />
+    <None Include="wwwroot\Layout\scss\bootstrap\scss\_popover.scss" />
+    <None Include="wwwroot\Layout\scss\bootstrap\scss\_print.scss" />
+    <None Include="wwwroot\Layout\scss\bootstrap\scss\_progress.scss" />
+    <None Include="wwwroot\Layout\scss\bootstrap\scss\_reboot.scss" />
+    <None Include="wwwroot\Layout\scss\bootstrap\scss\_root.scss" />
+    <None Include="wwwroot\Layout\scss\bootstrap\scss\_spinners.scss" />
+    <None Include="wwwroot\Layout\scss\bootstrap\scss\_tables.scss" />
+    <None Include="wwwroot\Layout\scss\bootstrap\scss\_toasts.scss" />
+    <None Include="wwwroot\Layout\scss\bootstrap\scss\_tooltip.scss" />
+    <None Include="wwwroot\Layout\scss\bootstrap\scss\_transitions.scss" />
+    <None Include="wwwroot\Layout\scss\bootstrap\scss\_type.scss" />
+    <None Include="wwwroot\Layout\scss\bootstrap\scss\_utilities.scss" />
+    <None Include="wwwroot\Layout\scss\bootstrap\scss\_variables.scss" />
+    <None Include="wwwroot\Layout\scss\style.scss" />
+    <None Include="wwwroot\Login\fonts\font-awesome-4.7.0\fonts\fontawesome-webfont.svg" />
+    <None Include="wwwroot\Login\fonts\font-awesome-4.7.0\fonts\fontawesome-webfont.woff2" />
+    <None Include="wwwroot\Login\fonts\font-awesome-4.7.0\less\animated.less" />
+    <None Include="wwwroot\Login\fonts\font-awesome-4.7.0\less\bordered-pulled.less" />
+    <None Include="wwwroot\Login\fonts\font-awesome-4.7.0\less\core.less" />
+    <None Include="wwwroot\Login\fonts\font-awesome-4.7.0\less\fixed-width.less" />
+    <None Include="wwwroot\Login\fonts\font-awesome-4.7.0\less\font-awesome.less" />
+    <None Include="wwwroot\Login\fonts\font-awesome-4.7.0\less\icons.less" />
+    <None Include="wwwroot\Login\fonts\font-awesome-4.7.0\less\larger.less" />
+    <None Include="wwwroot\Login\fonts\font-awesome-4.7.0\less\list.less" />
+    <None Include="wwwroot\Login\fonts\font-awesome-4.7.0\less\mixins.less" />
+    <None Include="wwwroot\Login\fonts\font-awesome-4.7.0\less\path.less" />
+    <None Include="wwwroot\Login\fonts\font-awesome-4.7.0\less\rotated-flipped.less" />
+    <None Include="wwwroot\Login\fonts\font-awesome-4.7.0\less\screen-reader.less" />
+    <None Include="wwwroot\Login\fonts\font-awesome-4.7.0\less\stacked.less" />
+    <None Include="wwwroot\Login\fonts\font-awesome-4.7.0\less\variables.less" />
+    <None Include="wwwroot\Login\fonts\font-awesome-4.7.0\scss\font-awesome.scss" />
+    <None Include="wwwroot\Login\fonts\font-awesome-4.7.0\scss\_animated.scss" />
+    <None Include="wwwroot\Login\fonts\font-awesome-4.7.0\scss\_bordered-pulled.scss" />
+    <None Include="wwwroot\Login\fonts\font-awesome-4.7.0\scss\_core.scss" />
+    <None Include="wwwroot\Login\fonts\font-awesome-4.7.0\scss\_fixed-width.scss" />
+    <None Include="wwwroot\Login\fonts\font-awesome-4.7.0\scss\_icons.scss" />
+    <None Include="wwwroot\Login\fonts\font-awesome-4.7.0\scss\_larger.scss" />
+    <None Include="wwwroot\Login\fonts\font-awesome-4.7.0\scss\_list.scss" />
+    <None Include="wwwroot\Login\fonts\font-awesome-4.7.0\scss\_mixins.scss" />
+    <None Include="wwwroot\Login\fonts\font-awesome-4.7.0\scss\_path.scss" />
+    <None Include="wwwroot\Login\fonts\font-awesome-4.7.0\scss\_rotated-flipped.scss" />
+    <None Include="wwwroot\Login\fonts\font-awesome-4.7.0\scss\_screen-reader.scss" />
+    <None Include="wwwroot\Login\fonts\font-awesome-4.7.0\scss\_stacked.scss" />
+    <None Include="wwwroot\Login\fonts\font-awesome-4.7.0\scss\_variables.scss" />
+    <None Include="wwwroot\Login\js\main.js" />
+    <None Include="wwwroot\Login\vendor\bootstrap\css\bootstrap-grid.css.map" />
+    <None Include="wwwroot\Login\vendor\bootstrap\css\bootstrap-grid.min.css.map" />
+    <None Include="wwwroot\Login\vendor\bootstrap\css\bootstrap-reboot.css.map" />
+    <None Include="wwwroot\Login\vendor\bootstrap\css\bootstrap-reboot.min.css.map" />
+    <None Include="wwwroot\Login\vendor\bootstrap\css\bootstrap.css.map" />
+    <None Include="wwwroot\Login\vendor\bootstrap\css\bootstrap.min.css.map" />
+    <None Include="wwwroot\Login\vendor\bootstrap\js\bootstrap.js" />
+    <None Include="wwwroot\Login\vendor\bootstrap\js\bootstrap.min.js" />
+    <None Include="wwwroot\Login\vendor\bootstrap\js\popper.js" />
+    <None Include="wwwroot\Login\vendor\bootstrap\js\popper.min.js" />
+    <None Include="wwwroot\Login\vendor\bootstrap\js\tooltip.js" />
+    <None Include="wwwroot\Login\vendor\jquery\jquery-3.2.1.min.js" />
+    <None Include="wwwroot\Login\vendor\select2\select2.js" />
+    <None Include="wwwroot\Login\vendor\select2\select2.min.js" />
+    <None Include="wwwroot\Login\vendor\tilt\tilt.jquery.min.js" />
+  </ItemGroup>
+
+</Project>

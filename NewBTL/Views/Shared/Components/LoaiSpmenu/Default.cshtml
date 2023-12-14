@@ -1,0 +1,75 @@
+﻿@model IEnumerable<Hangsanxuat>
+<div class="container-fluid pt-5">
+    <h2 class="section-title position-relative text-uppercase mx-xl-5 mb-4"><span class="bg-secondary pr-3">Categories</span></h2>
+    <div class="row px-xl-5 pb-3">
+        @foreach (var item in Model)
+        {
+            <div class="col-lg-3 col-md-4 col-sm-6 pb-1">
+                <a class="text-decoration-none" href="#">
+                    <div class="cat-item d-flex align-items-center mb-4">
+                        <div class="overflow-hidden" style="width: 100px; height: 100px;"> 
+                        </div>
+                        <div class="flex-fill pl-3">
+                            <h6><a asp-controller="Home" asp-action="SanPhamTheoLoai" asp-route-maloai="@item.Mahang">@item.Tenhang</a></h6>
+                        </div>
+                    </div>
+                </a>
+            </div>
+        }
+    </div>
+</div>
+<script>
+    function HienThiSPtheoDanhMuc(getUrl) {
+        var str = '';
+        $.ajax({
+            type: 'GET',
+            url: getUrl,
+            dataType: 'json',
+            success: function (data) {
+                $.each(data, function (key, val) {
+                    str += '<div class="col-lg-3 col-md-4 col-sm-6 pb-1">';
+                    str += '<div class="product-item bg-light mb-4">';
+                    str += '<div class="product-img position-relative overflow-hidden">';
+                    str += '<img class="img-fluid w-100" src="../' + val.Anhbia + '" alt="">';
+                    str += '<div class="product-action">';
+                    str += '<a class="btn btn-outline-dark btn-square" href="/Cart/AddToCart?maSP=' + val.Masp + '"><i class="fa fa-shopping-cart"></i></a>';
+                    str += '<a class="btn btn-outline-dark btn-square" href=""><i class="far fa-heart"></i></a>';
+                    str += '<a class="btn btn-outline-dark btn-square" href=""><i class="fa fa-sync-alt"></i></a>';
+                    str += '<a class="btn btn-outline-dark btn-square" href=""><i class="fa fa-search"></i></a>';
+                    str += '</div>';
+                    str += '</div>';
+                    str += '<div class="text-center py-4">';
+                    str += '<a class="h6 text-decoration-none text-truncate" href="#">';
+                    str += '<a asp-controller="Home" asp-action="ChiTietSanPham" asp-route-maSp="' + val.Masp + '">' + val.Tensp + '</a></a>';
+                    str += '<div class="d-flex align-items-center justify-content-center mt-2">';
+                    str += '<h5>' + val.Giatien + '</h5>';
+                    str += '</div>';
+                    str += '<div class="d-flex align-items-center justify-content-center mb-1">';
+                    str += '<small class="fa fa-star text-primary mr-1"></small>';
+                    str += '<small class="fa fa-star text-primary mr-1"></small>';
+                    str += '<small class="fa fa-star text-primary mr-1"></small>';
+                    str += '<small class="fa fa-star text-primary mr-1"></small>';
+                    str += '<small class="fa fa-star text-primary mr-1"></small>';
+                    str += '<small>' + val.Soluong + '</small>';
+                    str += '</div>';
+                    str += '</div>';
+                    str += '</div>';
+                    str += '</div>';
+                });
+                $('#displayProducts').html(str);
+            },
+            error: function (xhr) {
+                alert(xhr.responseText);
+            }
+        });
+    }
+
+    $(document).ready(function () {
+        $('.cat-item').click(function (e) {
+            e.preventDefault(); // Ngăn mặc định hành vi nhấp vào liên kết
+            var maLoai = $(this).find('a').data('ma-loai');
+            HienThiSPtheoDanhMuc("/Home/GetProductsByCategory?maLoai=" + maLoai);
+            history.pushState(null, '', '/Home/SanPhamTheoLoai?maloai=' + maLoai); // Thay đổi URL
+        });
+    });
+</script>
